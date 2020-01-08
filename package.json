@@ -2,7 +2,7 @@
   "name" : "closure.extern.jquery",
   "description" : "Closure extern jQuery.",
   "keywords" : ["jquery", "closure"],
-  "version" : "1.9",
+  "version" : "1.9.1",
   "repository" : {
     "type" : "git",
     "url" : "git://github.com/stefi023/closure.extern.jquery.git"
